@@ -1,15 +1,15 @@
 numpy
 -f https://download.pytorch.org/whl/torch_stable.html
-torch==1.6.0+cu101
+torch==1.13.1
 -f https://download.pytorch.org/whl/torch_stable.html
 torchvision==0.7.0+cu101
 opencv-python
-onnx==1.9.0
+onnx==1.16.0
 onnxruntime-gpu==1.4.0
 mxnet-cu101mkl
 scikit-image
 insightface==0.2.1
-requests==2.25.1
+requests==2.32.0
 kornia==0.5.4
 dill
 wandb
